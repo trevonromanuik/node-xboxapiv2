@@ -1,0 +1,17 @@
+{
+    "name": "node-xboxapiv2",
+    "version": "0.0.1",
+    "description": "Unofficial xbox api v2 library for node",
+    "homepage": "https://github.com/trevonromanuik/node-xboxapiv2",
+    "author": "Trevon Romanuik <trevon.romanuik@gmail.com>",
+    "contributors": [],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/trevonromanuik/node-xboxapiv2.git"
+    },
+    "bugs:": "https://github.com/trevonromanuik/node-xboxapiv2/issues",
+    "engines": {
+        "node": ">= v0.8.0"
+    },
+    "main": "lib/xboxapi.js"
+}
