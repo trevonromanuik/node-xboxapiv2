@@ -1,6 +1,6 @@
 {
     "name": "node-xboxapiv2",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Unofficial xbox api v2 library for node",
     "homepage": "https://github.com/trevonromanuik/node-xboxapiv2",
     "author": "Trevon Romanuik <trevon.romanuik@gmail.com>",
