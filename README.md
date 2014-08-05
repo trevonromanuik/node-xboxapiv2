@@ -36,7 +36,7 @@ xboxapiv2.get(
 
 *To call a method, pass the method name as the first parameter to `get` and the method parameters as a plain old JavaScript object as the second parameter to `get`, e.g.*
 
-`xboxapiv2.get('GameStats', { xuid: {XUID}, titleId: {TITLEID} }, function(err, response) { })`
+`xboxapiv2.get('GameStats', { xuid: {XUID}, titleId: {TITLEID} })`
 
  * `AccountMessages()`
  * `AccountXUID()`
