@@ -34,29 +34,30 @@ xboxapiv2.get(
 
 ### Available methods
 
-*To call a method, pass the method name as the first parameter to `get` and the method parameters as a plain old
-JavaScript object as the second parameter to `get`, e.g. `xboxapiv2.get('GameStats', { xuid: {XUID}, titleId: {TITLEID} })`*
+*To call a method, pass the method name as the first parameter to `get` and the method parameters as a plain old*
+*JavaScript object as the second parameter to `get`,*
+*e.g. `xboxapiv2.get('GameStats', { xuid: {XUID}, titleId: {TITLEID} })`*
 
- *AccountMessages()
- *AccountXUID()
- *Activity(xuid)
- *Followers(xuid)
- *Friends(xuid)
- *GameClips(xuid)
- *GameStats(xuid, titleId)
- *Gamercard(xuid)
- *GamertagXUID(gamertag)
- *Presence(xuid)
- *Profile(xuid)
- *RecentActivity(xuid)
- *RecentPlayers()
- *SavedGameClips(xuid)
- *XUIDGamertag(xuid)
- *Xbox360Games(xuid)
- *XboxGameAchievements(xuid, titleId)
- *XboxGameInformationHEX(game_id)
- *XboxGameInformation(product_id)
- *XboxONEGames(xuid)
+ *`AccountMessages()`
+ *`AccountXUID()`
+ *`Activity(xuid)`
+ *`Followers(xuid)`
+ *`Friends(xuid)`
+ *`GameClips(xuid)`
+ *`GameStats(xuid, titleId)`
+ *`Gamercard(xuid)`
+ *`GamertagXUID(gamertag)`
+ *`Presence(xuid)`
+ *`Profile(xuid)`
+ *`RecentActivity(xuid)`
+ *`RecentPlayers()`
+ *`SavedGameClips(xuid)`
+ *`XUIDGamertag(xuid)`
+ *`Xbox360Games(xuid)`
+ *`XboxGameAchievements(xuid, titleId)`
+ *`XboxGameInformationHEX(game_id)`
+ *`XboxGameInformation(product_id)`
+ *`XboxONEGames(xuid)`
 
 ## Author
 
